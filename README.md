@@ -137,11 +137,4 @@ Track prediction error (MAE, RMSE, MAPE) across models and visualize time-based 
 
 ---
 
-## 🚀 How to Run
 
-### Backend
-
-```bash
-cd src/
-pip install -r ../requirements.txt
-uvicorn main:app --reload
